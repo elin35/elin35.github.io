@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   a place where mathematics is not to be mistaken for mathematics
 #twitter_username: username
 github_username: elin35
-minimal_mistakes_skin: air
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Edwin Lin"
   avatar : "/assets/images/Glenda (Plan9).jpg"
-  bio    : "Graduate student at the University of California Riverside."
+  bio    : "A student of mathematics"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"

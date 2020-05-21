@@ -1,4 +1,6 @@
 main:
+  - title: "Episodes"
+    url: /episodes/
   - title: "Posts by Year"
     url: /posts/
   - title: "Categories"
@@ -7,5 +9,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Episodes"
-    url: /episodes/

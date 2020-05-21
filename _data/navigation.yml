@@ -7,5 +7,5 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Episodes"
+    url: /episodes/

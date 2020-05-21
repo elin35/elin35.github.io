@@ -1,13 +1,10 @@
 ---
 title: "Episode 0: Introduction"
 date: 2020-05-21
-collections:
-  - episodes
 categories:
-  - blog
 tags:
-  - Jekyll
-  - update
+  - episodes
+  - personal
 ---
 
 Hello $\latex$

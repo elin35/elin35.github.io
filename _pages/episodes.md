@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Episodes
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /episodes/
+collection: episodes
 entries_layout: grid
 classes: wide
 ---

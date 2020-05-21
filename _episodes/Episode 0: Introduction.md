@@ -7,4 +7,4 @@ tags:
   - personal
 ---
 
-Hello $\Latex$
+Hello $\rm\LaTeX$

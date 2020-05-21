@@ -105,10 +105,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio (collection)
+  # _episodes (collection)
   - scope:
       path: ""
-      type: portfolio
+      type: episodes
     values:
       layout: single
       author_profile: false
@@ -122,6 +122,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
+  episodes:
     output: true
     permalink: /:collection/:path/

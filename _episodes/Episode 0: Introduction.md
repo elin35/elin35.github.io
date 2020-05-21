@@ -11,4 +11,6 @@ This small site will be a place where you can find a general cataloging of how t
 
 If you have comments, questions, or would like to offer some advice to me (on math, code, life, or on running this blog), feel free to contact me through my email below. I'll be greatly appreciative.
 
+Thank you for being here.
+
 **Contact**: elin070@ucr.edu

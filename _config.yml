@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Poorly Drawn Sines
 email: elin070@ucr.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  a place where mathematics is not to be mistaken for mathematics
+description: >- a place where mathematics is never mistaken for its mathematicians # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 github_username: elin35
 minimal_mistakes_skin: aqua
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Edwin Lin"
   avatar : "/assets/images/Glenda (Plan9).jpg"
-  bio    : "A student of mathematics"
+  bio    : "A career student"
   email  : "elin070@ucr.edu"
   links:
     #- label: "Website"

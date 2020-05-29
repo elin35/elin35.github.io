@@ -23,7 +23,7 @@ $$
       y_n
     \end{array} \right)
 \end{align*}
-$$
+$$  
 
 <details markdown="1">
   <summary>Click to expand!</summary>
@@ -33,7 +33,7 @@ $$
   2. list
      * With some
      * Sub bullets
-</details>
+</details>  
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

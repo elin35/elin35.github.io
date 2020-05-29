@@ -10,7 +10,7 @@ tags:
 
 \begin{align*}
   f(x) &= 3x^2 + \sin(x) + \log(\ln(x)) \\
-  g(x) &= \sum_{i=1}^\infty + \alpha + \Gamma + \left|\frac{a^{*}}{b_{1/N}} 
+  g(x) &= \sum_{i=1}^\infty + \alpha + \Gamma + \left|\frac{a^{\*}}{b_{1/N}}\right|
 \end{align*}
 
 <button class="collapsible" id="yaml">Click here for the code.</button>

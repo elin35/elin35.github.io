@@ -25,7 +25,7 @@ $$
 \end{align*}
 $$
 
-<details>
+<details markdown="1">
   <summary>Click to expand!</summary>
   
   ## Heading

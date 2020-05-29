@@ -3,8 +3,6 @@ title: "Episode 1: To the Class of 2020"
 date: 2020-05-21
 ---
 
-**To the Class of 2020**
-
 It's unfortunate that the conclusion to our time as undergraduates had to end the way it did. There's a lot of grandeur to a graduation that we just won't be able to experience due to COVID-19. I won't say that I'm too grief-stricken by this result as I don't really enjoy sitting for many hours in the sun. I also want to say that I think there's a lot of things of interest that Coronavirus brings to us. It's not every day that we get to experience living (and hopefully continued living) through a global pandemic. It's alloted, and will allot, a  hefty amount of time to ourselves, and I see this as a great opportunity to make big changes in our lives and in the greater societies that we occupy. This isn't to downplay the humongous tragedy and mess that's occurring, but I think there's more to it than just that.
 
 When I transferred to East Bay, I was looking forward to a really strenuous, difficult experience of studying mathematics at the upper division level. Because of this, I spent a lot of time my last year in community college reading and solving problems in anticipation of the rigour that would be required of me. Thinking about it now, it seems that either my expectations were a little skewed, or I overdid it a bit. Regardless, I was able to find a tightknit community at East Bay that taught me more than just math.

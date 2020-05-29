@@ -8,7 +8,17 @@ tags:
   - update
 ---
 
-$e^{2x} + \sin(x)$.
+\begin{align*}
+  f(x) &= 3x^2 + \sin(x) + \log(\ln(x)) \\
+  g(x) &= \sum_{i=1}^\infty + \alpha + \Gamma + \left|\frac{a^{*}}{b_{1/N}} 
+\end{align*}
+
+<button class="collapsible" id="yaml">Click here for the code.</button>
+
+<div class="content" id="yamldata" markdown="1">
+  CONTENT
+</div>
+
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

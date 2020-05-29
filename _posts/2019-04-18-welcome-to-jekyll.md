@@ -28,7 +28,7 @@ $$
 <details markdown="1">
   <summary>Click to expand!</summary>
   
-  **Heading**
+  # Heading
   1. A numbered
   2. list
      * With some

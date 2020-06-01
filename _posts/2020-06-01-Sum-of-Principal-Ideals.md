@@ -1,5 +1,5 @@
 ---
-title: "$m\\mathbb{Z} + n\\mathbb{Z} = \\text{gcd}(m,n)\\mathbb{Z}$"
+title: "mZ + nZ = gcd(m,n)Z"
 date: 2020-06-01
 categories:
   - Math

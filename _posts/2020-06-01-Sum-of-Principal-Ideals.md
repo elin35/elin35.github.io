@@ -22,7 +22,7 @@ At first glance, beyond the notions and properties surrounding principal ideals,
 
 
 <details markdown="1">
-  <summary>Set Equality</summary>
+  <summary>Click to Reveal Set Equality Method</summary>
 ## Proof
   For convenience, we'll denote gcd$$(m,n) \equiv (m,n)$$
     

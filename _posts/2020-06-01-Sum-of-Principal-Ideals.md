@@ -20,10 +20,6 @@ Prove that $m\mathbb{Z} + n\mathbb{Z} = \text{gcd}(m,n)\mathbb{Z}$ where $m,n\in
 
 At first glance, beyond the notions and properties surrounding principal ideals, this seems like a direct set equality problem. 
 
-
-<details markdown="1">
-  <summary>Set Equality Solution</summary>
-  
 ## Proof
   $$
   For convenience, we'll denote gcd$(m,n) \equiv (m,n)$
@@ -36,6 +32,5 @@ At first glance, beyond the notions and properties surrounding principal ideals,
         \[x= k(m,n) = k(rm+sn) = (kr)m + (ks)n \in m\mathbb{Z} + n\mathbb{Z}. \hspace{1cm}\blacksquare\]
     \end{enumerate}
   $$
-</details>
 
 

@@ -28,11 +28,11 @@ At first glance, beyond the notions and properties surrounding principal ideals,
     
     $$(\subseteq)$$
         Let $x\in \mathbb{Z} + n\mathbb{Z}$. Then, $x = am + bm$ for $a,b\in\mathbb{Z}$. Since $(m,n) \mid m$ and $(m,n)\mid n$, we have that $m = k(m,n)$ and $n = l(m,n)$ for $k,l\in\mathbb{Z}$. Thus, 
-        \[ x = am+bn = (m,n)(ak+bl)\in (m,n)\mathbb{Z}. \]
+        \\[ x = am+bn = (m,n)(ak+bl)\in (m,n)\mathbb{Z}. \\]
       
     $$(\supseteq)$$
         Let $x \in (m,n)\mathbb{Z}$. Then $x= k(m,n).$ By [*Bezout's Identity*](https://en.wikipedia.org/wiki/B%C3%A9zout%27s_identity), we know that there exists integers $r,s$ such that $(m,n) = rm+sn$. Thus, 
-        \[x= k(m,n) = k(rm+sn) = (kr)m + (ks)n \in m\mathbb{Z} + n\mathbb{Z}. \hspace{1cm}\blacksquare\]
-<details>
+        \\[x= k(m,n) = k(rm+sn) = (kr)m + (ks)n \in m\mathbb{Z} + n\mathbb{Z}. \hspace{1cm}\blacksquare\\]
+</details>
 
 

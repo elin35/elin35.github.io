@@ -5,7 +5,7 @@ categories:
   - Math
   - Algebra
   - Number Theory
-tags
+tags:
   - math
   - principal ideals
   - rings

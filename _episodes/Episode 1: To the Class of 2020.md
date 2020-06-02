@@ -17,10 +17,10 @@ To my peers, I appreciate all of you that supported me the past two years and ra
 
 To close, I'd like to leave you all with a quote I've kept close to me for few years now.
 
-> **"Do not mistake mathematics for the mathematician"**
+> **"Do not mistake mathematics for the mathematician."**
 
 To my peers, I hope you all know that you have so much more to offer than just your abilities in mathematics. Beyond being mathematicians, there are things you can do for yourself and your communities that just can't be measured using math, so as you continue into a tumultuous world, I encourage you to keep in mind what you are capable of, as well as the skills and humanity that you hold. On the other hand, I hope that you all continue to think about mathematics. Just as mathematicians are more than mathematics, I think math itself is so much more than what people that study and teach it can ever hope to describe. A curious thought that was shared between Dr. Oliver and I some time ago, was that mathematics as a whole is just so strange. It's so unreasonably good at characterizing our physical world on top of infinite layers of esoteric abstractions, that it's almost theological.
 
-So whether it's something strange like this, a playful puzzle, a warming experience, or some kind of application, it is my wish that you may all find something in math that you can continue working on and thinking about. 
+So whether it's something strange like this, a playful puzzle, a warming experience, or some kind of application, it is my wish that you may all find something in math that you can find enjoyment and meaning from. 
 
 Thank you.

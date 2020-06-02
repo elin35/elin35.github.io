@@ -7,10 +7,10 @@ categories:
   - Algebra
   - Resources
 tags:
-  - math
   - groups
   - rings
   - fields
+  - polynomials
 ---
 
 <a href="_pdfs/Algebra-I-Reference-Sheet.pdf" class="image fit"></a>

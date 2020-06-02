@@ -6,11 +6,9 @@ categories:
   - Algebra
   - Number Theory
 tags:
-  - math
   - principal ideals
   - rings
-  - number theory
-  - algebra
+  - gcd
 ---
 
 This problem is fairly well known, but as a reference please see Keith Conrad's [Introduction](https://kconrad.math.uconn.edu/blurbs/ringtheory/ideals.pdf) for a brief hinting at the topic at hand. 

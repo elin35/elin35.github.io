@@ -12,8 +12,8 @@ tags:
   - polynomials
 ---
 
-<!-- insert just before the closing body tag </body> -->
-<script src='/path-to-your-javascript-file/pdfobject.js'></script>
-<script>
-PDFObject.embed("https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf");
-</script>
+<object 
+  data="\_pdfs/Algebra\_I\_Reference\_Sheet.pdf" 
+  width="1000" 
+  height="1000" 
+  type="application/pdf"></object>

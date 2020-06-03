@@ -12,8 +12,8 @@ tags:
   - polynomials
 ---
 
-<object data="https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf" width="700px" height="700px">
-    <embed src="https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf">
+<object data="https://github.com/elin35/elin35.github.io/blob/master/\_pdfs/Algebra\_I\_Reference\_Sheet.pdf" width="700px" height="700px">
+    <embed src="https://github.com/elin35/elin35.github.io/blob/master/\_pdfs/Algebra\_I\_Reference\_Sheet.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>

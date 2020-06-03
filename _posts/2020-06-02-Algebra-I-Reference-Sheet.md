@@ -12,10 +12,8 @@ tags:
   - polynomials
 ---
 
-<!-- insert in the document body -->
-<object data='_pdfs/Algebra_I_Reference_Sheet.pdf' 
-        type='application/pdf' 
-        width='100%' 
-        height='100%'>
-<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="_pdfs/Algebra_I_Reference_Sheet.pdf">Download PDF</a></p>
-</object>
+<!-- insert just before the closing body tag </body> -->
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>
+PDFObject.embed("https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf");
+</script>

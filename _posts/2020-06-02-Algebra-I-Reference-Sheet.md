@@ -12,13 +12,4 @@ tags:
   - polynomials
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="_pdfs/Algebra_I_Reference_Sheet.pdf">example</a>.</p>
-  </body>
-</html>
+<a href="https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf" target="_blank">PDF.</a>

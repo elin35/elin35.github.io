@@ -12,8 +12,10 @@ tags:
   - polynomials
 ---
 
-<object 
-  data="\_pdfs/Algebra\_I\_Reference\_Sheet.pdf" 
-  width="1000" 
-  height="1000" 
-  type="application/pdf"></object>
+<!-- insert in the document body -->
+<object data='https://github.com/elin35/elin35.github.io/blob/master/\_pdfs/Algebra\_I\_Reference\_Sheet.pdf' 
+        type='application/pdf' 
+        width='100%' 
+        height='100%'>
+<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://github.com/elin35/elin35.github.io/blob/master/\_pdfs/Algebra\_I\_Reference\_Sheet.pdf">Download PDF</a></p>
+</object>

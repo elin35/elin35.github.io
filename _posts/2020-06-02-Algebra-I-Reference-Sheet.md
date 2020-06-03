@@ -12,10 +12,6 @@ tags:
   - polynomials
 ---
 
-<div>
-<object data="_pdfs/Algebra_I_Reference_Sheet.pdf" type="application/pdf" >
-    <embed src="_pdfs/Algebra_I_Reference_Sheet.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="_pdfs/Algebra_I_Reference_Sheet.pdf">Download PDF</a>.</p>
-    </embed>
+<object data=”_pdfs/Algebra_I_Reference_Sheet.pdf" type=”application/pdf” width=”100%” height=”100%”>
+Example fallback content: This browser does not support PDFs. Please download the PDF to view it: Download PDF.
 </object>
-</div>

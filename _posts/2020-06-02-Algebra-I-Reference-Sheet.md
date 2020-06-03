@@ -12,7 +12,7 @@ tags:
   - polynomials
 ---
 
+<div id="example1"></div>
 
-<iframe src=”_pdfs/Algebra_I_Reference_Sheet.pdf" width=”100%” height=”100%”>
-This browser does not support PDFs. Please download the PDF to view it: Download PDF
-</iframe>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("_pdfs/Algebra_I_Reference_Sheet.pdf", "#example1");</script>

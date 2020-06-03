@@ -13,9 +13,9 @@ tags:
 ---
 
 <!-- insert in the document body -->
-<object data='https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf' 
+<object data='_pdfs/Algebra_I_Reference_Sheet.pdf' 
         type='application/pdf' 
         width='100%' 
         height='100%'>
-<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf">Download PDF</a></p>
+<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="_pdfs/Algebra_I_Reference_Sheet.pdf">Download PDF</a></p>
 </object>

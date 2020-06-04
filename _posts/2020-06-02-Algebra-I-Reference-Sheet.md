@@ -12,4 +12,4 @@ tags:
   - polynomials
 ---
 
-<object data="{{ _pdfs/Algebra_I_Reference_Sheet.pdf }}" width="1000" height="1000" type='application/pdf'/>
+<object data="{{ _pdfs/Algebra_I_Reference_Sheet.pdf }}" width="1000" height="1000" type='application/pdf'/></object>

@@ -12,4 +12,4 @@ tags:
   - polynomials
 ---
 
-<iframe src="https://drive.google.com/preview?id=1HZRSx1V5Xq9lJB4Of3yaQs6wTSkjV2GW"></iframe>
+ <embed src-“_pdfs/Algebra_I_Reference_Sheet.pdf” width=”600” height=”500”> </embed>

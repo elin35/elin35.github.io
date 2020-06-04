@@ -13,4 +13,5 @@ tags:
 ---
 
 
-<embed src="_pdfs/Algebra_I_Reference_Sheet.pdf" width="600" height="500" alt="pdf"></embed>
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-a199f03c-3a40-4412-8861-5de84ec60206"></div>

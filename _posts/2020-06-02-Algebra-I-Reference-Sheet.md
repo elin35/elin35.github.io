@@ -12,4 +12,5 @@ tags:
   - polynomials
 ---
 
-<embed src="_pdfs/Algebra_I_Reference_Sheet.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+<embed src="_pdfs/Algebra_I_Reference_Sheet.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"></embed>

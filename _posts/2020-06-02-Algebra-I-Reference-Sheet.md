@@ -11,4 +11,7 @@ tags:
   - fields
   - polynomials
 ---
-<embed src="\_pdfs/Algebra\_I\_Reference\_Sheet.pdg" width="600" height="500"> </embed>
+
+<object data="{{ elin35.github.io }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type='application/pdf'/>
+
+

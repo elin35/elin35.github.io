@@ -11,5 +11,4 @@ tags:
   - fields
   - polynomials
 ---
-
- <embed src-“_pdfs/Algebra_I_Reference_Sheet.pdf” width=”600” height=”500”> </embed>
+<embed src="\_pdfs/Algebra\_I\_Reference\_Sheet.pdg" width="600" height="500"> </embed>

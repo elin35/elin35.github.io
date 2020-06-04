@@ -12,4 +12,4 @@ tags:
   - polynomials
 ---
 
-<a href="https://github.com/elin35/elin35.github.io/raw/master/_pdfs/Algebra_I_Reference_Sheet.pdf" target="_blank">PDF.</a>
+<embed src="_pdfs/Algebra_I_Reference_Sheet.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">

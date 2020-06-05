@@ -12,6 +12,6 @@ tags:
   - polynomials
 ---
 
-<object data="{{ elin35.github.io }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type='application/pdf'/>
+<img src="{{ site.url }}/assets/images/bio-photo.jpg" alt="">
 
 

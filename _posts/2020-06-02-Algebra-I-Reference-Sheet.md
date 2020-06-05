@@ -12,6 +12,6 @@ tags:
   - polynomials
 ---
 
-<img src="{{ site.url }}/assets/images/bio-photo.jpg" alt="">
+<embed src="{{ site.url }}/_pdfs/Algebra_I_Reference_Sheet.pdf" alt="">
 
 

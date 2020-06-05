@@ -12,6 +12,8 @@ tags:
   - polynomials
 ---
 
+Attempt 1
+
 <object data="{{ site.url }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 

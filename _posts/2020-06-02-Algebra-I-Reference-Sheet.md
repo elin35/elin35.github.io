@@ -1,16 +1,18 @@
 ---
-title: "Algebra I Reference Sheet"
+title: "Math Resources"
 date: 2020-06-02
 categories:
-  - Math
   - Algebra
   - Resources
 tags:
+  - math
   - groups
   - rings
   - fields
   - polynomials
 ---
 
-Attempt 3
-<object data="{{ /_pdfs/Algebra_I_Reference_Sheet.pdf }}" width="1000" height="1000" type='application/pdf'></object>
+Sometimes I spend some time writing up small tutorials, guides, reference sheets, or other handouts to help students I'm working with, or myself. Below is a list of such documents.
+
+##### Reference Sheets
+1. [Algebra I Reference Sheet]({{ site.url }}/_pdfs/Algebra_I_Reference_Sheet.pdf)

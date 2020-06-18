@@ -15,4 +15,4 @@ tags:
 Sometimes I spend some time writing up small tutorials, guides, reference sheets, or other handouts to help students I'm working with, or myself. Below is a list of such documents.
 
 ##### Reference Sheets
-1. <a href="https://github.com/elin35/elin35.github.io/blob/master/_pdfs/Algebra_I_Reference_Sheet.pdf" target="_blank"> Abstract Algebra I </a>
+1. <a href="https://drive.google.com/file/d/1HZRSx1V5Xq9lJB4Of3yaQs6wTSkjV2GW/view?usp=sharing" target="_blank"> Abstract Algebra I </a>

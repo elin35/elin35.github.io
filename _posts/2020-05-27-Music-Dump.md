@@ -111,6 +111,11 @@ Songs that I found pretty good. Starting around like late 2018.
 * prateek kuhad - pause - indie
 
 * no rome - hurry home - pop
+* no rome - seventeen - pop
 * keshi - more - pop
+* beabadoobee - bobby - bedroom pop
+* beabadoobee - susie may - bedroom pop
+* beabadoobee - home alone - bedroom pop
+* jon brion - consolation and reconcile - classical
 
 

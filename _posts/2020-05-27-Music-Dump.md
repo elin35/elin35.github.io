@@ -117,5 +117,5 @@ Songs that I found pretty good. Starting around like late 2018.
 * beabadoobee - susie may - bedroom pop
 * beabadoobee - home alone - bedroom pop
 * jon brion - consolation and reconcile - classical
-
+* conan gray - i know a place - bedroom pop
 

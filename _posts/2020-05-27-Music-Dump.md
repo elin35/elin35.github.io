@@ -12,6 +12,8 @@ This is a little list I started in a notepad on my laptop back in 2018. I figure
 Songs that I found pretty good. Starting around like late 2018.
 [artist] -  [title] - [fake genre]
 
+-----------------------2018--------------------------------
+
 * lilbootycall - aquafina - lofi rap
 * lilbootycall - come back - lofi rap
 * caleon fox - no swag no swag - rap
@@ -118,4 +120,12 @@ Songs that I found pretty good. Starting around like late 2018.
 * beabadoobee - home alone - bedroom pop
 * jon brion - consolation and reconcile - classical
 * conan gray - i know a place - bedroom pop
+
+* keshi - always (acoustic) - pop
+* niki - la la lost you (acoustic) - pop
+* eaj - pacman - r&b
+* eaj - 50 proof - r&b
+* eaj - truman - r&b
+* friday night plans - all the dots - jpop
+
 

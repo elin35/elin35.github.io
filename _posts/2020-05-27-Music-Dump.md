@@ -18,8 +18,8 @@ Songs that I found pretty good. Starting around like late 2018.
 * lilbootycall - come back - lofi rap
 * caleon fox - no swag no swag - rap
 * Phum Viphurit - the art of detaching one's heart - acoustic
-* Tatsuro Yamashita - Sparkle - j.funk/soul/pop
-* Tatsuro Yamashita - Futari - j.funk/soul/pop
+* Tatsuro Yamashita - Sparkle - jfunk/soul/pop
+* Tatsuro Yamashita - Futari - jfunk/soul/pop
 * Kodaline - Love Like This (Acoustic) - Indie Folk
 * LEE. - Dream Forest - EDM
 * Glass Forest - Anywhere - Pop
@@ -48,6 +48,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * Balming Tiger - Armadillo - k.hiphop
 * Peter and Kerry - They Know God (But I Know You) - Indie-Pop
 
+
 * sleeping at last - three - folk pop
 * sleeping at last - one - folk pop
 * Klahr - Falling In Love - lofi
@@ -61,6 +62,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * Phoebe Bridgers - Have Yourself a Merry Little Christmas - Folk
 * mxmtoon - prom dress - Pop
 
+
 * Vallis Alps - Oceans - Electropop
 * Aimee Nolte - Falling Snow - ballroom jazz
 * 90yonge st - Downtown - k-city pop
@@ -69,6 +71,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * keshi - skeletons - lofi pop
 * keshi - xoxosos - lofi pop
 * Chai - Alright - k-r&b
+
 
 * keshi - right here - lofi pop
 * MARO - why - folk
@@ -102,6 +105,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * mxmtoon - quiet motions - acoustic pop
 * sleeping at last - light - pop
 
+
 * vietra - for you - lofi pop
 * vietra - in love - lofi pop
 * 92914 - someday - k-acoustic
@@ -112,6 +116,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * devotchka - how it ends - gypsy folk
 * prateek kuhad - pause - indie
 
+
 * no rome - hurry home - pop
 * no rome - seventeen - pop
 * keshi - more - pop
@@ -121,11 +126,15 @@ Songs that I found pretty good. Starting around like late 2018.
 * jon brion - consolation and reconcile - classical
 * conan gray - i know a place - bedroom pop
 
+
 * keshi - always (acoustic) - pop
 * niki - la la lost you (acoustic) - pop
 * eaj - pacman - r&b
 * eaj - 50 proof - r&b
 * eaj - truman - r&b
+* eaj - guess not - r&b
 * friday night plans - all the dots - jpop
-
+* day6 - where the sea sleeps - kpop
+* nothing but thieves - impossible - indie rock
+* keshi - drunk - pop
 

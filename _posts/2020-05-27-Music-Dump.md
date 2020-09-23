@@ -137,4 +137,6 @@ Songs that I found pretty good. Starting around like late 2018.
 * day6 - where the sea sleeps - kpop
 * nothing but thieves - impossible - indie rock
 * keshi - drunk - pop
+* seori - i wanna cry - kpop
+* eaj, seori - it just is - pop
 

@@ -139,4 +139,12 @@ Songs that I found pretty good. Starting around like late 2018.
 * keshi - drunk - pop
 * seori - i wanna cry - kpop
 * eaj, seori - it just is - pop
+* got7 - not by the moon - kpop
+* got7 - aura - kpop
+* got7 - thank you - kpop
+* stephanie poetri - i love you 3000 - pop
+* keshi - b.y.s - technopop
+* keshi - talk - technopop
+* keshi - us - indie
+* city girl - easy - lofi
 

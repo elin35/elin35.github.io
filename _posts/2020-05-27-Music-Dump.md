@@ -81,7 +81,6 @@ Songs that I found pretty good. Starting around like late 2018.
 * JiwOO - Greed - k-indie
 * Sunday Moon - Somebody - k-indie
 * esae - a car going nowhere
-* ON THE HUNT - Gorgons - Trap
 * NIKI - Strange Land - pop
 * Gabrielle Aplin - Kintsugi - pop
 * Surfaces - Good Day - chillhop
@@ -115,8 +114,6 @@ Songs that I found pretty good. Starting around like late 2018.
 * kate rusby - underneath the stars (voces8) - choral
 * devotchka - how it ends - gypsy folk
 * prateek kuhad - pause - indie
-
-
 * no rome - hurry home - pop
 * no rome - seventeen - pop
 * keshi - more - pop
@@ -147,4 +144,10 @@ Songs that I found pretty good. Starting around like late 2018.
 * keshi - talk - technopop
 * keshi - us - indie
 * city girl - easy - lofi
+
+* dept - whenever it rains - kr&b
+* got7 - 1 degree - kpop
+* got7 - runaway - kpop
+
+
 

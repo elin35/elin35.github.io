@@ -145,9 +145,28 @@ Songs that I found pretty good. Starting around like late 2018.
 * keshi - us - indie
 * city girl - easy - lofi
 
+
 * dept - whenever it rains - kr&b
 * got7 - 1 degree - kpop
 * got7 - runaway - kpop
+* jj project - tomorrow today - kr&b
+* got7 - flash up - kpop
+* got7 - superman - kpop
+* eaj,keshi - pillows - pop
+* got7 - wave - kpop
+* got7 - waiting for you - kpop
+* got7 - we are young - kpop
+* michelle - really - kpop
+* michelle - i been (blackpink) - khiphop
+* michelle - i wish we could (berhana) - pop,r&b
+* michelle - tu (maye)
+
+-----------------------2021--------------------------------
+
+jacob collier - all i need - pop
+jacob collier - he won't hold you - gospel
+utada hikaru - one last kiss - jpop
+utada hikaru - beautiful world (da capo ver.) - jpop
 
 
 

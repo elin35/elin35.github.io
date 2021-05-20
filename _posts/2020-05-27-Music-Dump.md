@@ -143,7 +143,7 @@ Songs that I found pretty good. Starting around like late 2018.
 * keshi - b.y.s - technopop
 * keshi - talk - technopop
 * keshi - us - indie
-* city girl - easy - lofi
+* citygirl - easy - lofi
 
 
 * dept - whenever it rains - kr&b
@@ -163,10 +163,22 @@ Songs that I found pretty good. Starting around like late 2018.
 
 -----------------------2021--------------------------------
 
-jacob collier - all i need - pop
-jacob collier - he won't hold you - gospel
-utada hikaru - one last kiss - jpop
-utada hikaru - beautiful world (da capo ver.) - jpop
+* jacob collier - all i need - pop
+* jacob collier - he won't hold you - gospel
+* utada hikaru - one last kiss - jpop
+* utada hikaru - beautiful world (da capo ver.) - jpop
+* keshi - besides you - lofi pop
+* michelle - i wish we could - pop
+* onlyoneof - byredo - kpop
+* onlyoneof - tear of god - kpop
+* onlyoneof - fragile - kpop
+* onlyoneof - designer - kpop
+* hoshimatsu suisei - ghost - jpop
+* tokoyami towa - palette - jpop
+* sakanaction - shin takarajima - jrock
+* tiffi - sea - bedroom pop
+* tiffi - pack it up boy - lofi hiphop
+* 
 
 
 

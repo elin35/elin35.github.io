@@ -8,7 +8,7 @@ tags:
   - measure theory
 ---
 
-###### University of Hawai'i at Mānoa: Analysis Qualifying Exam, Fall 2020, Problem 6
+**University of Hawai'i at Mānoa: Analysis Qualifying Exam, Fall 2020, Problem 6**
 
 ---
 

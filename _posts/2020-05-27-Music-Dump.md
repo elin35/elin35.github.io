@@ -178,7 +178,10 @@ Songs that I found pretty good. Starting around like late 2018.
 * sakanaction - shin takarajima - jrock
 * tiffi - sea - bedroom pop
 * tiffi - pack it up boy - lofi hiphop
-* 
+* utada hikaru - pink blood - jpop
+* onlyoneof - rollin - kpop
+
+
 
 
 

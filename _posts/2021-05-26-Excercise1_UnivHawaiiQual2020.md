@@ -14,16 +14,20 @@ tags:
 ---
 
 > Show that there is no measurable set $ E \subset \mathbb{R} $ that satisfies
+
 $$
     \frac{1}{100} < \frac{m(E\cap I)}{m(I)} < \frac{99}{100}
 $$
+
 for every interval $I\subset \mathbb{R}$ where $m$ denotes the Lebesgue measure on $\mathbb{R}$.
 
 Note that this problem can easily be generalized to the following:
 > Let $0< \epsilon < \tfrac{1}{2}$. Show that there is no measurable set $ E \subset \mathbb{R} $ that satisfies
+
 $$
     \epsilon < \frac{m(E\cap I)}{m(I)} < 1-\epsilon
 $$
+
 for every interval $I\subset \mathbb{R}$ where $m$ denotes the Lebesgue measure on $\mathbb{R}$.
 
 

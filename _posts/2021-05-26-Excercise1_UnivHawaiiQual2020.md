@@ -53,6 +53,7 @@ $$ E_N \subset \bigcup_{k=1}^\infty I_k \quad \text{and} \quad m(E_N) \leq \sum_
 
 we know that 
 
+$$
 \begin{align*}
     m(E_N) &\leq m\left( E_N \cap \bigcup_{k=1}^\infty I_k\right)\\
     &\leq m\left ( E \cap \bigcup_{k=1}^\infty I_k\right)\\
@@ -60,6 +61,7 @@ we know that
     &\leq \sum_{k=1}^\infty m(E\cap I_k)\\
     &< \frac{99}{100}\sum_{k=1}^\infty m(I_k)
 \end{align*}
+$$
 
 Thus, we have that $\tfrac{100}{99}m(E_N) < \sum_{k=1}^\infty m(I_k)$. Hence,
 

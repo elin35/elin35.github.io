@@ -22,33 +22,6 @@ tags:
 >for every interval $I\subset \mathbb{R}$ where $m$ denotes the Lebesgue measure on $\mathbb{R}$.
 
 
-Note that this problem can easily be generalized to the following:
-
-
->Let $0< \epsilon < \tfrac{1}{2}$. Show that there is no measurable set $ E \subset \mathbb{R} $ that satisfies
->
->$$
->    \epsilon < \frac{m(E\cap I)}{m(I)} < 1-\epsilon
->$$
->
->for every interval $I\subset \mathbb{R}$ where $m$ denotes the Lebesgue measure on $\mathbb{R}$.
-
-
-<br />
-<details markdown="1">
-  <summary><strong>Intuition and Potential Traps</strong></summary>
-
-Since the goal is to show that no such set $E$ exists, one will likely assume by contradiction that such an $E$ does exist. This is fine, but the next step is to see what might lead to a contradiction. My initial thought was that something must go wrong with the unique property that the set holds. That is, when intersected with any interval on the real line, it is not too similar to $I$ and not too dissimilar from $I$. 
-
-If you begin to try to pick out a smart interval to try and see if you can break through the bound then that endeavor will be fruitless (unless it is possible and I'm just wrong). Intervals, under the Lebesgue measure, are too nice with their rescaling properties. Essentially, any interval will just be the same as $(0,1)$, so anything one might try will just reinforce that the property works as intended.  
-
-Another way to think about it is that the above attempt is to try and use $E$ to reach a contradiction, but the correct method is not to use $E$, but to look at $E$ itself since that is the object that should not exist. This is what the two solutions below demonstrate. 
-
-</details>  
-<br />
-
-
-
 
 <br />
 <details markdown="1">
@@ -70,8 +43,29 @@ Another way to think about it is that the above attempt is to try and use $E$ to
 <br />
 <details markdown="1">
   <summary><strong>Solution 1: From Definition</strong></summary>
+Suppose such an $E$ exists. Then first instead consider the set $E_N = E\cap [-N,N]$, $N\in \mathbb{N}$, so that
 
+$$m(E_N) \leq m([-N,N]) = 2N< \infty$$
 
+Since $E_N$ is Lebesgue measurable, then for any family of intervals, $(I_k)_{k=1}^\infty$ such that 
+
+$$ E_N \subset \bigcup_{k=1}^\infty I_k \quad \text{and} \quad m(E_N) \leq \sum_{k=1}^\infty m(I_k)$$
+
+we know that 
+
+\begin{align*}
+    m(E_N) &\leq m\left( E_N \cap \bigcup_{k=1}^\infty I_k\right)\\
+    &\leq m\left ( E \cap \bigcup_{k=1}^\infty I_k\right)\\
+    &= m\left( \bigcup_{k=1}^\infty E\cap I_k\right)\\
+    &\leq \sum_{k=1}^\infty m(E\cap I_k)\\
+    &< \frac{99}{100}\sum_{k=1}^\infty m(I_k)
+\end{align*}
+
+Thus, we have that $\tfrac{100}{99}m(E_N) < \sum_{k=1}^\infty m(I_k)$. Hence,
+
+$$ \frac{100}{99}m(E_N) \leq \inf\left\{ \sum_{k=1}^\infty m(I_k) : E_N \subset \bigcup_{k=1}^\infty I_k\right\} = m(E_N)$$
+
+which implies that $m(E_N) = m(E\cap [-N,N]) = 0 < \frac{1}{100}m([-N,N])$, a contradiction.
 
 </details>  
 <br />

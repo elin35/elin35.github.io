@@ -26,14 +26,39 @@ tags:
 <br />
 <details markdown="1">
   <summary><strong>Tools and Facts</strong></summary>
-1. From Folland (p35,37), we define the Lebesgue measure, $m$, by 
+<ol>
+  <li>
+    <em>Folland (p35,37)</em>: We define the <strong>Lebesgue measure</strong>, $m$, by 
 
-  $$
-    m(E) = \inf\left\{ \sum_{j=1}^\infty (b_j-a_j) : E \subset \bigcup_{j=1}^\infty (a_j,b_j)\right\}
-  $$
+      $$
+       m(E) = \inf\left\{ \sum_{j=1}^\infty (b_j-a_j) : E \subset \bigcup_{j=1}^\infty (a_j,b_j)\right\}
+      $$
 
-  for any Lebesgue measurable set E (Borel $\sigma$-algebra on $\mathbb{R}$.
-
+      for any Lebesgue measurable set E (Borel $\sigma$-algebra on $\mathbb{R}$.
+  </li>
+  
+  <li>
+    <em>Folland (p98)</em>: A family $(E_r)_{r>0}$ of Borel subsets of $\mathbb{R}^n$ is said to <strong>shrink nicely</strong> to some $x\in\mathbb{R}^n$ if 
+     <ul>
+       <li>
+         $E_r\subset B_r(x)$ for each $r>0$
+       </li>
+       <li>
+         There exists an $\alpha>0$, for all $r>0$, such that $m(E_r) > \alpha m(B_r(x)).
+       </li>
+     </ul>
+  </li>
+    
+  <li>
+    <em>Folland (p98)</em>: The <strong>Lebesgue Differentiation Theorem</strong>. Suppose $f\in L^1_{\text{loc}}. For every $x$ in the Lebesgue set of $f$; in particular, for almost every $x$, we have
+    
+    $$
+      \lim_{r\to0} \frac{1}{m(E_r)}\int_{E_r} f(y)dy = f(x)
+    $$
+    
+    for every family $(E_r)_{r>0} that shrinks nicely to $x$.
+  </li>
+</ol>
 </details>  
 <br />
 
@@ -79,7 +104,24 @@ which implies that $m(E_N) = m(E\cap [-N,N]) = 0 < \frac{1}{100}m([-N,N])$, a co
 <details markdown="1">
   <summary><strong>Solution 2: Lebesgue Differentiation Theorem</strong></summary>
 
+Suppose such an $E$ exists. Then since $E\neq \varnothing$, for some $x\in E$, let's first consider the family of intervals $(I_r)_{r>0}$ where
 
+$$ I_r = (x-r, x+r) $$
+
+It is clear that $(I_r)$ shrinks nicely to $x$. Next, we note that the characteristic function $\mathcal{X}_E \in L^1(\mathbb{R})$. Thus, by the Lebesgue differentiation theorem, we have that
+
+$$ 
+\begin{align*}
+    \mathcal{X}_E(x) &= \lim_{r\to0} \frac{1}{m(I_r)} \int_{I_r}\mathcal{X}_E dy \\
+    &= \lim_{r\to0}\frac{1}{m(I_r)} \int_\mathbb{R} \mathcal{X}_{E\cap I_r}dy \\
+    &= \lim_{r\to0} \frac{m(E\cap I_r)}{m(I_r)}\\
+    &< \lim_{r\to 0} \frac{99}{100}\\
+    &= \frac{99}{100}
+\end{align*}
+$$
+Thus, $\mathcal{X}_E(x) < \frac{99}{100}$, but this contradicts that $\mathcal{X}_E(x) = 1$ since $x\in E$. Hence, no such $E$ exists.
 
 </details>  
 <br />
+
+

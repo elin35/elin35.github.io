@@ -119,6 +119,7 @@ $$
     &= \frac{99}{100}
 \end{align*}
 $$
+
 Thus, $\mathcal{X}_E(x) < \frac{99}{100}$, but this contradicts that $\mathcal{X}_E(x) = 1$ since $x\in E$. Hence, no such $E$ exists.
 
 </details>  

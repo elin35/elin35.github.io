@@ -50,7 +50,7 @@ tags:
   </li>
     
   <li>
-    <em>Folland (p98)</em>: The <strong>Lebesgue Differentiation Theorem</strong>. Suppose $f\in L^1_{\text{loc}}. For every $x$ in the Lebesgue set of $f$; in particular, for almost every $x$, we have
+    <em>Folland (p98)</em>: The <strong>Lebesgue Differentiation Theorem</strong>. Suppose $f\in L^1_{\text{loc}}$. For every $x$ in the Lebesgue set of $f$; in particular, for almost every $x$, we have
     
     $$
       \lim_{r\to0} \frac{1}{m(E_r)}\int_{E_r} f(y)dy = f(x)

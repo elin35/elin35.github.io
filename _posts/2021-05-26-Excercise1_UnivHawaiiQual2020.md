@@ -37,6 +37,7 @@ tags:
       for any Lebesgue measurable set E (Borel $\sigma$-algebra on $\mathbb{R}$.
   </li>
   
+  
   <li>
     <em>Folland (p98)</em>: A family $(E_r)_{r>0}$ of Borel subsets of $\mathbb{R}^n$ is said to <strong>shrink nicely</strong> to some $x\in\mathbb{R}^n$ if 
      <ul>
@@ -48,7 +49,8 @@ tags:
        </li>
      </ul>
   </li>
-    
+  
+  
   <li>
     <em>Folland (p98)</em>: The <strong>Lebesgue Differentiation Theorem</strong>. Suppose $f\in L^1_{\text{loc}}$. For every $x$ in the Lebesgue set of $f$; in particular, for almost every $x$, we have
     

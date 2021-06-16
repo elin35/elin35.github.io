@@ -9,7 +9,7 @@ tags:
   - lebesgue
 ---
 
-**University of Hawai'i at Mānoa: Analysis Qualifying Exam, Fall 2020, Problem 6**
+[**University of Hawai'i at Mānoa: Analysis Qualifying Exam, Fall 2020, Problem 6**](http://math.hawaii.edu/home/graduate/qualifying-exams/analysis/Analysis_Fall_20.pdf)
 
 ---
 

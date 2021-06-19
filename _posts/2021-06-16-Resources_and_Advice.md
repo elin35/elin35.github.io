@@ -1,6 +1,6 @@
 ---
 title: List of Resources and Advice for Math Graduate Students
-date: 2021-06-15
+date: 2021-06-19
 categories:
   - Resources
   - Advice

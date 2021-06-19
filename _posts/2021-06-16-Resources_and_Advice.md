@@ -26,6 +26,7 @@ Note that most of these are full of other links that are especially worth explor
 3. [John Baez (How to learn math and physics)](https://math.ucr.edu/home/baez/books.html)
 4. [Terry Tao (Learn and Relearn your field)](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
 5. [George Polya (How to solve it wikipedia page)](https://en.wikipedia.org/wiki/How_to_Solve_It)
+6. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
 
 #### Grant and Scholarship Resources
 **Math**

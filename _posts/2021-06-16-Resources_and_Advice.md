@@ -34,6 +34,7 @@ Note that most of these are full of other links that are especially worth explor
 2. [UCLA's list of funding](https://grad.ucla.edu/funding/#/)
 3. [UIUC fellowship finder](https://apps.grad.illinois.edu/fellowship-finder/)
 4. Search for "grants" or "fellowships" at the NSF, MAA, AMS, SIAM, or any other big math organization
+
 **General**
 1. Just try searching online for local,state, or national scholarships or grants. Be wary of scams and any "search services" that require payment.
 2. [Some random person's list from /r/scholarships](https://www.reddit.com/r/scholarships/comments/nsmvv8/my_scholarship_journey_won_around_30k/)

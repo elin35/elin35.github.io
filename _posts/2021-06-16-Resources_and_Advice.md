@@ -40,4 +40,4 @@ Note that most of these are full of other links that are especially worth explor
 2. [Some random person's list from /r/scholarships](https://www.reddit.com/r/scholarships/comments/nsmvv8/my_scholarship_journey_won_around_30k/)
 3. [Campusreel (it seems legit enough)](https://www.campusreel.org/scholarships)
 
-This list will be continuously updated as I stumble upon more things. Feel free to contact me if any links no longer function.
+This list will be continuously updated as I stumble upon more things. Feel free to contact me if any links are no longer function.

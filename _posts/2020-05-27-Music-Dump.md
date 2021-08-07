@@ -173,13 +173,27 @@ Songs that I found pretty good. Starting around like late 2018.
 * onlyoneof - tear of god - kpop
 * onlyoneof - fragile - kpop
 * onlyoneof - designer - kpop
-* hoshimatsu suisei - ghost - jpop
+* hoshimachi suisei - ghost - jpop
 * tokoyami towa - palette - jpop
 * sakanaction - shin takarajima - jrock
 * tiffi - sea - bedroom pop
 * tiffi - pack it up boy - lofi hiphop
 * utada hikaru - pink blood - jpop
 * onlyoneof - rollin - kpop
+
+* onlyoneof - coy - kpop
+* onlyoneof - ? - kpop
+* onlyoneof - night flight - kpop
+* hoshimachi suisei - bluerose - jpop
+* taku inoue - sanju juunihun - jpop
+* calliope mori & hoshimachi suisei - getcha! - jpop
+* irys - caesura of despair (attacca ver.) - jedm
+* conan gray - people watching - pop
+* kaho nakamura - forgetful angel - jalt
+* kaho nakamura - gales of song - jpop
+* kaho nakamura - a million miles away - jpop
+* kaho nakamura - u - jrock
+* kaho nakamura - lend me your voice - jpop
 
 
 

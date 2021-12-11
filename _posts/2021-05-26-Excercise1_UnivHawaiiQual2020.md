@@ -96,7 +96,7 @@ Thus, we have that $\tfrac{100}{99}m(E_N) < \sum_{k=1}^\infty m(I_k)$. Hence,
 
 $$ \frac{100}{99}m(E_N) \leq \inf\left\{ \sum_{k=1}^\infty m(I_k) : E_N \subset \bigcup_{k=1}^\infty I_k\right\} = m(E_N)$$
 
-which implies that $m(E_N) = m(E\cap [-N,N]) = 0 < \frac{1}{100}m([-N,N])$, a contradiction.
+which is true only when $m(E_N) = 0$, a contradiction.
 
 </details>  
 <br />

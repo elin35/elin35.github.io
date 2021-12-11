@@ -46,7 +46,7 @@ tags:
          $E_r\subset B_r(x)$ for each $r>0$
        </li>
        <li>
-         There exists an $\alpha>0$, for all $r>0$, such that $m(E_r) > \alpha m(B_r(x)).
+         There exists an $\alpha>0$, for all $r>0$, such that $m(E_r) > \alpha m(B_r(x))$.
        </li>
      </ul>
   </li>

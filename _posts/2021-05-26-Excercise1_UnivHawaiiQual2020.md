@@ -34,7 +34,7 @@ tags:
        m(E) = \inf\left\{ \sum_{j=1}^\infty (b_j-a_j) : E \subset \bigcup_{j=1}^\infty (a_j,b_j)\right\}
       $$
 
-      for any Lebesgue measurable set E (Borel $\sigma$-algebra on $\mathbb{R}$.
+      for any Lebesgue measurable set E (Borel $\sigma$-algebra on $\mathbb{R}$).
   </li>
   
   <br>

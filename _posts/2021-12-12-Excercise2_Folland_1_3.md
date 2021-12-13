@@ -35,9 +35,8 @@ tags:
     $$
     is a $\sigma$-algebra.
     
-    <details markdown="1">
-      <summary><strong>Proof</strong></summary>
-    </details>
+    <Proof markdown="1">
+      
   </li>
   
 </ol>

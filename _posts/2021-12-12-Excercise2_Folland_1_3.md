@@ -34,22 +34,6 @@ tags:
       \mathcal M' := \{E\cap F: E\in \mathcal M\}
     $$
     is a $\sigma$-algebra on $F$.
-    
-    <br />
-    <details markdown="1"><summary><strong>Proof</strong></summary>
-      Let $E\cap F \in \mathcal M'$. Then taking the complement with respect to $F$, we have
-      $$
-      \begin{align*}
-        (E\cap F)^c &= E^{c}\cup F^c =E^c \cup \varnothing = E^{c_X} \cap F \in \mathcal M'
-      \end{align*}
-      $$
-      where $E^{c_X}$ denotes the complement of $E$ taken with respect to $X$. Next, consider $(E_j\cap F)_1^\infty \subset \mathcal M'$. Then we see that
-      $$
-        \bigcup_{j=1}^\infty E_j\cap F = \left(\bigcup_{j=1}^\infty E_j\right)\cap F \in \M'
-      $$
-      since $\bigcup_1^\infty E_j \in \mathcal M.$ Thus, $\mathcal M'$ is indeed a $\sigma$-algebra over $F$.      
-    </details>
-    <br />
   </li>
   
 </ol>
@@ -63,6 +47,7 @@ tags:
 <br />
 <details markdown="1">
   <summary><strong>Solution: </strong></summary>
+  
   **(a)** Suppose that $\mathcal{M}$ is an infinite $\sigma$-algebra on a set $X$. Then, we know that there must exist some $E_1\in\mathcal{M}$ such that $\varnothing \subsetneq E_1\subsetneq X$. It must be that either 
   $$
     \mathcal{M}_1 = \{E \cap E_1 : E\in \mathcal{M}\} \quad \text{ or } \quad \mathcal{M}_1' =\{E\cap E_1^c: E\in \mathcal{M}\}

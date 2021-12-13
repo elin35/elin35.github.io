@@ -28,6 +28,18 @@ tags:
   
   <br>
   
+  <li>
+    Let $\mathcal M$ be a $\sigma$-algebra on a set $X$ and let $F\subseteq X$ ($E$ is not necessarily contained in $\mathcal M$). Then the collection of sets
+    $$
+      \mathcal M' := \{E\cap F: E\in \mathcal M\}
+    $$
+    is a $\sigma$-algebra.
+    
+    <details markdown="1">
+      <summary><strong>Proof</strong></summary>
+    </details>
+  </li>
+  
 </ol>
 </details>  
 <br />
@@ -46,7 +58,9 @@ is infinite; otherwise, if both are finite, then since
 $$
   \mathcal{M} \subseteq \{A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\}
 $$
-we have that card$(\mathcal{M}) \le$ card$( \{ A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\} ) \le$ card$(\mathcal{M}) \cdot$card$(\mathcal{M}')$ which is finite, contradicting that $\mathcal{M}$ is infinite.
+we have that card$(\mathcal{M}) \le$ card$( \{ A\cup A': A\in \mathcal M, A' \in \mathcal{M}' \} ) \le$ card$(\mathcal{M}) \cdot$card$(\mathcal{M}')$ which is finite, contradicting that $\mathcal{M}$ is infinite.
+
+Thus, without loss of generality, suppose that $\mathcal{M}_1 = \{E\cap E_1: E\in \mathcal M\} is infinite. 
 
 </details>  
 <br />

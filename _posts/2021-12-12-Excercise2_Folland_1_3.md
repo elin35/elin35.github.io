@@ -35,6 +35,7 @@ tags:
     $$
     is a $\sigma$-algebra on $F$.
     
+    <br />
     <details markdown="1"><summary><strong>Proof</strong></summary>
       Let $E\cap F \in \mathcal M'$. Then taking the complement with respect to $F$, we have
       $$
@@ -48,6 +49,7 @@ tags:
       $$
       since $\bigcup_1^\infty E_j \in \mathcal M.$ Thus, $\mathcal M'$ is indeed a $\sigma$-algebra over $F$.      
     </details>
+    <br />
   </li>
   
 </ol>

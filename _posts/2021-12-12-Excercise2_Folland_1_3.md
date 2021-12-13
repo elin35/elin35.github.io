@@ -35,8 +35,7 @@ tags:
     $$
     is a $\sigma$-algebra on $F$.
     
-    <details markdown="1">
-      <summary><strong>Proof</strong></summary>
+    <details markdown="1"><summary><strong>Proof</strong></summary>
       Let $E\cap F \in \mathcal M'$. Then taking the complement with respect to $F$, we have
       $$
       \begin{align*}

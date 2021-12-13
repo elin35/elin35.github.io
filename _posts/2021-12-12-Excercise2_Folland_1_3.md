@@ -34,6 +34,19 @@ tags:
       \mathcal M' := \{E\cap F: E\in \mathcal M\}
     $$
     is a $\sigma$-algebra on $F$.
+    <details><summary>Proof</summary>
+      Let $E\cap F \in \mathcal M'$. Then taking the complement with respect to $F$, we have
+      $$
+      \begin{align*}
+        (E\cap F)^c &= E^{c}\cup F^c =E^c \cup \varnothing = E^{c_X} \cap F \in \mathcal M'
+      \end{align*}
+      $$
+      where $E^{c_X}$ denotes the complement of $E$ taken with respect to $X$. Next, consider $(E_j\cap F)_1^\infty \subset \mathcal M'$. Then we see that
+      $$
+        \bigcup_{j=1}^\infty E_j\cap F = \left(\bigcup_{j=1}^\infty E_j\right)\cap F \in \M'
+      $$
+      since $\bigcup_1^\infty E_j \in \mathcal M.$ Thus, $\mathcal M'$ is indeed a $\sigma$-algebra over $F$.      
+    </details>
   </li>
   
 </ol>

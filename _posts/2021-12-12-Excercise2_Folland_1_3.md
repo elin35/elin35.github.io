@@ -46,7 +46,7 @@ is infinite; otherwise, if both are finite, then since
 $$
   \mathcal{M} \subseteq \{A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\}
 $$
-we have that card$(\mathcal{M}) \le$ card$(\{A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\}) \le$ card$(\mathcal{M}) \cdot$card$(\mathcal{M}')$ which is finite, contradicting that $\mathcal{M}$ is infinite.
+we have that card$(\mathcal{M}) \le$ card$( \{ A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\} ) \le$ card$(\mathcal{M}) \cdot$card$(\mathcal{M}')$ which is finite, contradicting that $\mathcal{M}$ is infinite.
 
 </details>  
 <br />

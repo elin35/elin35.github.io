@@ -39,10 +39,14 @@ tags:
 <details markdown="1">
   <summary><strong>Solution: </strong></summary>
 Suppose that $\mathcal{M}$ is an infinite $\sigma$-algebra on a set $X$. Then, we know that there must exist some $E_1\in\mathcal{M}$ such that $\varnothing \subsetneq E_1\subsetneq X$. It must be that either 
-
 $$
   \mathcal{M}_1 = \{E \cap E_1 : E\in \mathcal{M}\} \quad \text{ or } \quad \mathcal{M}_1' =\{E\cap E_1^c: E\in \mathcal{M}\}
 $$
+is infinite; otherwise, if both are finite, then since
+$$
+  \mathcal{M} \subseteq \{A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\}
+$$
+we have that card$(\mathcal{M}) \le$ card$(\{A\cup A': A\in \mathcal M, A' \in \mathcal{M}'\}) \le$ card$(\mathcal{M}) \cdot$card$(\mathcal{M}')$ 
 
 </details>  
 <br />

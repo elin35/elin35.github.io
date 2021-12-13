@@ -43,7 +43,7 @@ tags:
       $$
       where $E^{c_X}$ denotes the complement of $E$ taken with respect to $X$. Next, consider $(E_j\cap F)_1^\infty \subset \mathcal M'$. Then we see that
       $$
-        \bigcup_{j=1}^\infty E_j\cap F = \left(\bigcup_{j=1}^\infty E_j\right)\cap F \in \M'
+        \bigcup_{j=1}^\infty E_j\cap F = \left(\bigcup_{j=1}^\infty E_j\right)\cap F \in \mathcal M'
       $$
       since $\bigcup_1^\infty E_j \in \mathcal M.$ Thus, $\mathcal M'$ is indeed a $\sigma$-algebra over $F$.      
     </details>

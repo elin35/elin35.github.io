@@ -34,8 +34,6 @@ tags:
       \mathcal M' := \{E\cap F: E\in \mathcal M\}
     $$
     is a $\sigma$-algebra.
-    
-    <Proof markdown="1">
       
   </li>
   

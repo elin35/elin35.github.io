@@ -8,7 +8,7 @@ tags:
   - measure theory
 ---
 
-**Folland - Real Analysis: Modern Techniques and Their Applications** 
+**Folland - Real Analysis: Modern Techniques and Their Applications Exercise 1.3** 
 
 ---
 

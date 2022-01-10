@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Poorly Drawn Sines
-email: elin070@ucr.edu
+email: elin070[at]ucr[dot]edu
 description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 github_username: elin35
@@ -58,7 +58,7 @@ author:
   name   : "Edwin Lin"
   avatar : "/assets/images/Glenda (Plan9).jpg"
   bio    : "Confidently in paranoia and crisis."
-  email  : "elin070@ucr.edu"
+  email  : "elin070[at]ucr[dot]edu"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elin35"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/elylp35"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/elylp35"
 
 footer:
   links:
@@ -81,9 +81,9 @@ footer:
    - label: "GitHub"
      icon: "fab fa-fw fa-github"
      url: "https://github.com/elin35"
-   - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
-     url: "https://instagram.com/elylp35"
+   #- label: "Instagram"
+   #  icon: "fab fa-fw fa-instagram"
+   #  url: "https://instagram.com/elylp35"
 
 defaults:
   # _posts

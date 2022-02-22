@@ -15,4 +15,8 @@ tags:
 --- 
 
 > Let $\alpha$ be a positive number. Find the value of 
-> $$ \lim_{n\to\infty} \sum_{k=1}^n \frac{1}{n+k^\alpha}$$
+> $$
+> \begin{align*} 
+>   \lim_{n\to\infty} \sum_{k=1}^n \frac{1}{n+k^\alpha}
+> \end{align*}
+> $$

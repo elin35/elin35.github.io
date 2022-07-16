@@ -29,7 +29,6 @@ Note that most of these are full of other links that are especially worth explor
 6. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
 
 #### Grant and Scholarship Resources
-**Math**
 1. Check your school's website
 2. [UCLA's list of funding](https://grad.ucla.edu/funding/#/)
 3. [UIUC fellowship finder](https://apps.grad.illinois.edu/fellowship-finder/)

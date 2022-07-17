@@ -21,15 +21,16 @@ Note that most of these are full of other links that are especially worth explor
 4. [Ravi Vakil (General Advice for Grads)](http://math.stanford.edu/~vakil/potentialstudents.html)
 
 #### General advice on learning mathematics
-1. Talk to peers, upperclassmen, faculty. 
-2. [Terry Tao (Ask yourself dumb questions)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
-3. [John Baez (Listing of books for self-study)](https://math.ucr.edu/home/baez/books.html)
-4. [Terry Tao (Learn and Relearn your field)](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
-5. [George Polya (How to solve it wikipedia page)](https://en.wikipedia.org/wiki/How_to_Solve_It)
-6. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
+1. Be vulnerable and honest with yourself about when you need help or aren't certain of something. 
+2. Talk to peers, upperclassmen, faculty. 
+3. [Terry Tao (Ask yourself dumb questions)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+4. [John Baez (Listing of books for self-study)](https://math.ucr.edu/home/baez/books.html)
+5. [Terry Tao (Learn and Relearn your field)](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
+6. [George Polya (How to solve it wikipedia page)](https://en.wikipedia.org/wiki/How_to_Solve_It)
+7. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
 
 #### Grant and Scholarship Resources
-1. Check your school's website
+1. Check your school's website and kindly ask the staff that supports your department. They may know more than faculty.
 2. [UCLA's list of funding](https://grad.ucla.edu/funding/#/)
 3. [UIUC fellowship finder](https://apps.grad.illinois.edu/fellowship-finder/)
 4. Search for "grants" or "fellowships" at the NSF, MAA, AMS, SIAM, or any other big math organization

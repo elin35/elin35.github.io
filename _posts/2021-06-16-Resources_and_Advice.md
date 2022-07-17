@@ -20,7 +20,7 @@ Note that most of these are full of other links that are especially worth explor
 3. [John Baez (General Advice for Grads and Postdocs)](https://math.ucr.edu/home/baez/advice.html)
 4. [Ravi Vakil (General Advice for Grads)](http://math.stanford.edu/~vakil/potentialstudents.html)
 
-#### How to learn mathematics
+#### General advice on learning mathematics
 1. Talk to peers, upperclassmen, faculty. 
 2. [Terry Tao (Ask yourself dumb questions)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 3. [John Baez (Listing of books for self-study)](https://math.ucr.edu/home/baez/books.html)

@@ -8,7 +8,7 @@ tags:
   - math
 ---
 
-Everytime I read a piece of advice on some professor's blog (I see you Terry), or whenever I find a source of great wisdom that 
+Everytime I read a piece of advice on some professor's blog, or whenever I find a source of great wisdom that 
 I think will be beneficial on my journey in becoming a mathematician, 
 I always think to myself, "wow, this is amazing. I should save this." And I never do. So this is my attempt to do so.
 
@@ -28,6 +28,9 @@ Note that most of these are full of other links that are especially worth explor
 5. [Terry Tao (Learn and Relearn your field)](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
 6. [George Polya (How to solve it wikipedia page)](https://en.wikipedia.org/wiki/How_to_Solve_It)
 7. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
+
+#### Subject specific
+1. [Jay Cummings (CSUS) History of Real Analysis](https://longformmath.com/papers-and-articles-1)
 
 #### Grant and Scholarship Resources
 1. Check your school's website and kindly ask the staff that supports your department. They may know more than faculty.

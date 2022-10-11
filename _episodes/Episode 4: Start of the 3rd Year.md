@@ -1,4 +1,3 @@
-Add .md and delete this line once ready to post.
 ---
 title: "Episode 4: Start of the 3rd Year"
 date: 2022-10-1

@@ -3,9 +3,6 @@ title: List of Resources and Advice for Math Graduate Students
 date: 2021-06-19
 categories:
   - Resources
-  - Advice
-tags:
-  - math
 ---
 
 Everytime I read a piece of advice on some professor's blog, or whenever I find a source of great wisdom that 

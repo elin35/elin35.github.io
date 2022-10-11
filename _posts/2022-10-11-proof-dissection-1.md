@@ -23,8 +23,8 @@ This problem is taken from the text "Optimal Transport for Applied Mathematician
   
   <li>
     If $T:X\to Y$, then the pushforward measure, denoted $T_\sharp\mu$ is a measure on $Y$ defined by 
-    $$
-      T_\sharp\mu(B) = \mu( T^{-1}(B)) \qquad B \subseteq Y, \hspace{2mm} B \text{ measureable.}
+    $$ 
+        T_\sharp\mu(B) = \mu( T^{-1}(B)) \qquad B \subseteq Y, \hspace{2mm} B \text{ measureable.}
     $$
   </li>
   

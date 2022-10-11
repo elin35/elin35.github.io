@@ -9,7 +9,7 @@ This problem is taken from the text "Optimal Transport for Applied Mathematician
 
 --- 
 
->Let $X,Y$ be topological spaces, $\mu$ be a Borel measure on $X$, and $T:X\to Y$ be a measurable map. If $A$ is an atom of $\mu$, then the pushforward measure $T_\sharp\mu$ is also atomic such that there exists an atom $B$ of $T_\sharp\mu$ where $T_\sharp \mu(B) \ge \mu(A)$.
+>Let $X,Y$ be topological spaces, $\mu$ be a Borel measure on $X$ and $T:X\to Y$ be a measurable map. If $A$ is an atom of $\mu$, then the pushforward measure $T_\sharp\mu$ is also atomic such that there exists an atom $B$ of $T_\sharp\mu$ where $T_\sharp \mu(B) \ge \mu(A)$.
 
 <br />
 <details markdown="1">

@@ -81,7 +81,7 @@ $$ \{ B'\subseteq Y: \text{$B'$ measurable, } T(A) \subseteq B'  \} $$
 
 We certainly had that such a set was nonempty as $Y$ was contained within, and we could easily show that it was closed under countable intersection. We then wanted to employ the following technique:
 
-1. Define $c:= \inf\{T_\sharp\mu(B'):B' \text{ is contained in the set above}\}$
+1. Define $$c:= \inf\{T_\sharp\mu(B'):B' \text{ is contained in the set above}\}$$
 2. Take a sequence $$(B_n)_{n=1}^\infty$$ in the set above such that $$T_\sharp\mu(B_n)\to c$$ as $n\to\infty$.
 3. Using closure, define the set $B:= \bigcap_{n=1}^\infty B_n$.
 

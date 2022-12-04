@@ -54,7 +54,7 @@ we have no way of showing that $T_\sharp\mu(B) = 0$. This illuminates the first 
 
 Here are the two major problems which this exercise poses:
 
-1. It is difficult to control the size of $T_\#\mu$ because it is defined via the preimage. For example, $T^{-1}(T(A)) \supseteq A$, and we have no idea what the difference between the two sets is.
+1. It is difficult to control the size of $T_\sharp\mu$ because it is defined via the preimage. For example, $T^{-1}(T(A)) \supseteq A$, and we have no idea what the difference between the two sets is.
 2. The second, more subtle, issue is that we don't even know if $T(A)$ is a measurable subset of $Y$. So already from the start, we were doomed.
 
 ### 3. Crisis

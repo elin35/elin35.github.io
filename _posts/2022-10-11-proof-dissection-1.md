@@ -108,7 +108,7 @@ $$ \Gamma = \{ B\subseteq Y: B\text{ measurable, } T(A') \subseteq B, A'\in S\} 
 It is still not clear how this equivalence class idea helps us, but after defining $B$ in a similar manner as before and picking $\tilde B \subset B$ with $T_\sharp\mu(\tilde B)< T_\sharp\mu(B)$, we now have much more structure, so instead of just looking at cases around how $T^{-1}(\tilde B)$ and $A$ intersect, we can now look at how $T^{-1}(\tilde B)$ intersects *everything* in $S$. This allows us to suppose, by contradiction, that $T^{-1}(\tilde B)>0$ and consider the following cases
 
 1. $T^{-1}(\tilde B) \cap A' = \varnothing$ for every $A'\in S$
-2. There exists $A^*\in S$ such that $T^{-1}(\tilde B) \cap A^* \neq \varnothing$
+2. There exists $A^\*\in S$ such that $T^{-1}(\tilde B) \cap A^\* \neq \varnothing$
 
 which allows us to solve the problem.
 

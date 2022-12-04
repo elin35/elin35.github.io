@@ -77,12 +77,12 @@ Thus, we fought on.
 
 This first thing we did was come to terms with the fact that $T(A)$ was not exactly the atom. It was simply not feasible to work with as it led to both key issues. Thus, we had to start looking for another measurable set. We still had the conviction that the atom of $T_\sharp\mu$ was going to be a set that was "close" to $T(A)$, so there was a question of whether we could approximate $T(A)$ from above via measurable sets (think outer regularity).  In other words, we wanted to look at a set like
 
-$$ \{ B'\subseteq Y: \text{$B'$ measurable, } T(A) \subseteq B'  \} $$
+$$\{ B'\subseteq Y: B'\text{ measurable, } T(A) \subseteq B'\}$$
 
 We certainly had that such a set was nonempty as $Y$ was contained within, and we could easily show that it was closed under countable intersection. We then wanted to employ the following technique:
 
-1. Define $c:= \inf\{T_\sharp\mu(B'):B' \text{ is contained in the set above}\}$
-2. Take a sequence $(B_n)_{n=1}^\infty$ in the set above such that $T_\sharp\mu(B_n)\to c$ as $n\to\infty$.
+1. Define $c:= \inf\lbrace T_\sharp\mu(B'):B' \text{ is contained in the set above}\rbrace$
+2. Take a sequence $(B_n)\_{n=1}^\infty$ in the set above such that $T\_\sharp\mu(B_n)\to c$ as $n\to\infty$.
 3. Using closure, define the set $B:= \bigcap_{n=1}^\infty B_n$.
 
 With $B$ measurable and the fact that $T_\sharp\mu(B) = c \ge \mu(A)$, we were now very hopeful that $B$ was the atom of $T_\sharp\mu$. 

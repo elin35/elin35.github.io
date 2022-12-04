@@ -104,3 +104,15 @@ $$ S = \{A'\subseteq A: A' \text{ measurable, } \mu(A') = \mu(A)\} $$
 and repeat our idea in step 4. However, this time we would consider 
 
 $$ \Gamma = \{ B\subseteq Y: B\text{ measurable, } T(A') \subseteq B, A'\in S\} $$
+
+It is still not clear how this equivalence class idea helps us, but after defining $B$ in a similar manner as before and picking $\tilde B \subset B$ with $T_\sharp\mu(\tilde B)< T_\sharp\mu(B)$, we now have much more structure, so instead of just looking at cases around how $T^{-1}(\tilde B)$ and $A$ intersect, we can now look at how $T^{-1}(\tilde B)$ intersects *everything* in $S$. This allows us to suppose, by contradiction, that $T^{-1}(\tilde B)>0$ and consider the following cases
+
+1. $T^{-1}(\tilde B) \cap A' = \varnothing$ for every $A'\in S$
+2. There exists $A^*\in S$ such that $T^{-1}(\tilde B) \cap A^* \neq \varnothing$
+
+which allows us to solve the problem.
+
+### 6. Conclusion
+Maybe saying this might illuminate how poorly I've been doing in my courses, but this may have been the first time in my mathematical career that I went through an entire jouney of understanding a tricky (for me) problem in order to internalize its difficulties and what philosophical direction we had to push for in order to overcome those difficulties; followed by articulating the correct techniques and structures to make it all rigorous. 
+
+### 7. Proof

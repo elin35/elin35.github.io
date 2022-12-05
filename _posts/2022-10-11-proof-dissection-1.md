@@ -130,7 +130,7 @@ so $A$ and $\bigcap A_i$ differ by a set of measure zero, hence $\bigcap A_n\in 
 
 $$T\left(\bigcap_{n\in \mathbb N} A_n\right) \subset \bigcap_{n\in\mathbb N}B_n$$
 
-Next, let us consider $c = \inf\{ T_\sharp\mu(B'): B'\in \Gamma\}$, and take a sequence $(B_n)_{n\in\mathbb N}\subset \Gamma$ such that $T_\sharp\mu(B_n)\to c$. Then define,
+Next, let us consider $c = \inf\lbrace T\_\sharp\mu(B'): B'\in \Gamma\rbrace$, and take a sequence $(B_n)\_{n\in\mathbb N}\subset \Gamma$ such that $T\_\sharp\mu(B_n)\to c$. Then define,
 
 $$B:= \bigcap_{n\in\mathbb N}B_n$$
 

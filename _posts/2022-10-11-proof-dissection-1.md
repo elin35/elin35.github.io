@@ -136,7 +136,7 @@ $$B:= \bigcap_{n\in\mathbb N}B_n$$
 
 so that $B\in \Gamma$ and $T_\sharp\mu(B) = c$. Since $B\in \Gamma$, there exists some $\hat A \in S$ where $T(\hat A) \subseteq B$. Thus,
 
-$$c = T_\#\mu(B) = \mu(T^{-1}(B)) \ge \mu(\hat A) = \mu(A) >0$$
+$$c = T_\sharp\mu(B) = \mu(T^{-1}(B)) \ge \mu(\hat A) = \mu(A) >0$$
 
 Now let $\tilde B\subset B$ with $T_\sharp\mu(\tilde B)< T_\sharp\mu(B)$ and suppose by contradiction that $T_\sharp\mu(\tilde B)>0$. Let us now consider the following cases
 

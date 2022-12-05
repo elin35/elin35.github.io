@@ -111,6 +111,7 @@ defaults:
       type: episodes
     values:
       layout: single
+      classes: wide
       author_profile: false
       share: true
 

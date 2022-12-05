@@ -155,4 +155,4 @@ $$T_\sharp\mu(B\setminus B') = c - \mu(T^{-1}(B')) < c$$
 
 contradicting the definition of $c$ again.
 
-Thus, $T_\#\mu(B') = 0$, so $B$ must be an atom of $T_\#\mu$. $\blacksquare$
+Thus, $T_\sharp\mu(B') = 0$, so $B$ must be an atom of $T_\sharp\mu$. $\blacksquare$

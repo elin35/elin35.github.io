@@ -145,7 +145,7 @@ Now let $\tilde B\subset B$ with $T_\sharp\mu(\tilde B)< T_\sharp\mu(B)$ and sup
 
 In case (1), we see that since $T^{-1}(\tilde B)$ is disjoint from each set in $S$, then $\hat A\subseteq T^{-1}(B)\setminus T^{-1}(\tilde B) = T^{-1}(B\setminus \tilde B)$, so $B\setminus \tilde B \in \Gamma$. However, since $T_\sharp\mu(\tilde B)>0$, we see that $T_\sharp\mu(B\setminus \tilde B) < c$, contradicting the definition of $c$.
 
-In case (2), if $T^{-1}(\tilde B)\cap A^*\in S$, then we find $\tilde B\in \Gamma$, a contradiction. Otherwise, if $T^{-1}(\tilde B)\cap A^*\not\in S$, then since $A^*$ is an atom, then $\mu(T^{-1}(\tilde B)\cap A^*)=0$, so $\hat A \setminus T^{-1}(\tilde B)\in S$. Thus, we have 
+In case (2), if $T^{-1}(\tilde B)\cap A^\*\in S$, then we find $\tilde B\in \Gamma$, a contradiction. Otherwise, if $T^{-1}(\tilde B)\cap A^\*\not\in S$, then since $A^\*$ is an atom, then $\mu(T^{-1}(\tilde B)\cap A^\*)=0$, so $\hat A \setminus T^{-1}(\tilde B)\in S$. Thus, we have 
 
 $$ \hat A\setminus T^{-1}(\tilde B) \subseteq T^{-1}(B)\setminus T^{-1}(\tilde B) = T^{-1}(B\setminus \tilde B)$$
 

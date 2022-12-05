@@ -116,3 +116,43 @@ which allows us to solve the problem.
 Maybe saying this might illuminate how poorly I've been doing in my courses, but this may have been the first time in my mathematical career that I went through an entire jouney of understanding a tricky (for me) problem in order to internalize its difficulties and what philosophical direction we had to push for in order to overcome those difficulties; followed by articulating the correct techniques and structures to make it all rigorous. 
 
 ### 7. Proof
+Let $A$ be an atom of $\mu$ and define the sets
+
+$$S = \{ A' \subseteq A: A' \text{ measurable, }\mu(A') = \mu(A)\}$$
+
+$$\Gamma = \{ B'\subseteq Y: B'\text{ measurable, } T(A') \subseteq B', A'\in S\}$$
+
+Note that $S$ and $\Gamma$ are both nonempty since $A\in S$ and $Y\in \Gamma$. We then want to show that $S$ and $\Gamma$ are closed under countable intersection. Indeed, if $(A_n)_{n\in\mathbb N}\subset S$, then since
+
+$$\mu\left( A \setminus \bigcap_{n\in\mathbb N}A_n \right) = \mu\left(\bigcup_{n\in\mathbb N} (A\setminus A_n)\right) \le \sum_{n\in\mathbb N} \mu (A\setminus A_n) = 0$$
+
+so $A$ and $\bigcap A_i$ differ by a set of measure zero, hence $\bigcap A_n\in S$. It then follows that if $(B_n)_{n\in\mathbb N}\subset \Gamma$, then for each $B_n$, there exists $A_n\in S$ such that $T(A_n) \subseteq B_n$ and we know that
+
+$$T\left(\bigcap_{n\in \mathbb N} A_n\right) \subset \bigcap_{n\in\mathbb N}B_n$$
+
+Next, let us consider $c = \inf\{ T_\sharp\mu(B'): B'\in \Gamma\}$, and take a sequence $(B_n)_{n\in\mathbb N}\subset \Gamma$ such that $T_\sharp\mu(B_n)\to c$. Then define,
+
+$$B:= \bigcap_{n\in\mathbb N}B_n$$
+
+so that $B\in \Gamma$ and $T_\sharp\mu(B) = c$. Since $B\in \Gamma$, there exists some $\hat A \in S$ where $T(\hat A) \subseteq B$. Thus,
+
+$$c = T_\#\mu(B) = \mu(T^{-1}(B)) \ge \mu(\hat A) = \mu(A) >0$$
+
+Now let $\tilde B\subset B$ with $T_\sharp\mu(\tilde B)< T_\sharp\mu(B)$ and suppose by contradiction that $T_\sharp\mu(\tilde B)>0$. Let us now consider the following cases
+
+   1. $T^{-1}(\tilde B) \cap A' = \varnothing$ for every $A' \in S$
+   2. There exists some $A^\*\in S$ such that $T^{-1}(\tilde B) \cap A^\* \neq \varnothing$.
+
+In case (1), we see that since $T^{-1}(\tilde B)$ is disjoint from each set in $S$, then $\hat A\subseteq T^{-1}(B)\setminus T^{-1}(\tilde B) = T^{-1}(B\setminus \tilde B)$, so $B\setminus \tilde B \in \Gamma$. However, since $T_\sharp\mu(\tilde B)>0$, we see that $T_\sharp\mu(B\setminus \tilde B) < c$, contradicting the definition of $c$.
+
+In case (2), if $T^{-1}(\tilde B)\cap A^*\in S$, then we find $\tilde B\in \Gamma$, a contradiction. Otherwise, if $T^{-1}(\tilde B)\cap A^*\not\in S$, then since $A^*$ is an atom, then $\mu(T^{-1}(\tilde B)\cap A^*)=0$, so $\hat A \setminus T^{-1}(\tilde B)\in S$. Thus, we have 
+
+$$ \hat A\setminus T^{-1}(\tilde B) \subseteq T^{-1}(B)\setminus T^{-1}(\tilde B) = T^{-1}(B\setminus \tilde B)$$
+
+which implies that $T(\hat A\setminus T^{-1}(B')) \subseteq (B\setminus B')$, so $(B\setminus B')\in \Gamma$. However, 
+
+$$T_\sharp\mu(B\setminus B') = c - \mu(T^{-1}(B')) < c$$
+
+contradicting the definition of $c$ again.
+
+Thus, $T_\#\mu(B') = 0$, so $B$ must be an atom of $T_\#\mu$. $\blacksquare$

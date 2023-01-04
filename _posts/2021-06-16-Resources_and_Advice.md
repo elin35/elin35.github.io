@@ -25,6 +25,7 @@ Note that most of these are full of other links that are especially worth explor
 5. [Terry Tao (Learn and Relearn your field)](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
 6. [George Polya (How to solve it wikipedia page)](https://en.wikipedia.org/wiki/How_to_Solve_It)
 7. [Inna Zahkarevich (How to effectively learn from homework)](http://pi.math.cornell.edu/~zakh/homeworkguide.pdf)
+8. [Atiyah and many others (Advice to Young Mathematicians)](https://cmps-people.ok.ubc.ca/bauschke/atiyah.pdf)
 
 #### Subject specific
 1. [Jay Cummings (CSUS) History of Real Analysis](https://longformmath.com/papers-and-articles-1)

@@ -28,7 +28,7 @@ Note that most of these are full of other links that are especially worth explor
 8. [Atiyah and many others (Advice to Young Mathematicians)](https://cmps-people.ok.ubc.ca/bauschke/atiyah.pdf)
 
 #### Subject specific
-1. [Jay Cummings (CSUS) History of Real Analysis](https://longformmath.com/papers-and-articles-1)
+1. [Jay Cummings (CSUS) History of Real Analysis](https://longformmath.com/analysis-timeline)
 
 #### Grant and Scholarship Resources
 1. Check your school's website and kindly ask the staff that supports your department. They may know more than faculty.

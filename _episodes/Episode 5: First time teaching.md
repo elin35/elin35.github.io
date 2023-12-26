@@ -81,4 +81,5 @@ Some things I wasn't so happy about:
 	- other pedagogically intelligent things that I can't currently think of
 
 In summary, the class was great (minus some student conflict), and I'd love to do it again. 
+
 Thanks.
